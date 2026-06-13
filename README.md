@@ -1,5 +1,7 @@
 # Hi 👋, I'm Sai Karthik
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaiKarthikMothe&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 A passionate developer from India, exploring and learning latest tech fields.
 
 📫 Reach me:  mothesaikarthik123@gmail.com

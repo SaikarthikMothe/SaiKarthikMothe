@@ -10,7 +10,7 @@ A passionate developer from India, exploring and learning latest tech fields.
 - AI Agents
 
 📫 Reach me:
-- Email: iit2023056@iiita.ac.in
+- Email: mothesaikarthik123@gmail.com
 - LinkedIn: linkedin.com/in/yourprofile
 
 ## 💻 Tech Stack

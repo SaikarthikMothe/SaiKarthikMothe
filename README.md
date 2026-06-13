@@ -30,11 +30,18 @@ A passionate developer from India, exploring and learning latest tech fields.
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikMothe&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikMothe&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikMothe&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKarthikMothe&theme=tokyonight" />
 </p>
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikarthikMothe&theme=github-compact)](https://github.com/SaikarthikMothe)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKarthikMothe&theme=github-compact" />
+</p>

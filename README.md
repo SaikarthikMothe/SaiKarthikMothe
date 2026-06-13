@@ -15,8 +15,10 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,html,css,js,react,nodejs,express,mongodb,mysql,postgres,figma,linux,bootstrap,postman,vscode,tensorflow,pytorch&perline=10" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,html,css,js,react,nodejs" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,figma,linux,bootstrap,postman,vscode,tensorflow,pytorch" />
 </p>
 
 ## 📊 GitHub Stats

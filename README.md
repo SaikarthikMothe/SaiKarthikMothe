@@ -38,3 +38,21 @@ A passionate developer from India, exploring and learning latest tech fields.
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikarthikMothe&theme=github-compact)](https://github.com/SaikarthikMothe)
 
+## 🚀 Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/SaikarthikMothe/ConvoAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/SaikarthikMothe/Strassa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SaikarthikMothe/Wearable-Stress-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT3&theme=tokyonight" />
+  </a>
+</p>
+

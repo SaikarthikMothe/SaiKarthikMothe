@@ -1,8 +1,7 @@
 # Hi 👋, I'm Sai Karthik
 
 🎓 B.Tech Student at IIIT Allahabad
-
-💻 Full Stack Developer
+A passionate developer from India, exploring and learning latest tech fields.
 
 🚀 Currently working on:
 - RAG Applications

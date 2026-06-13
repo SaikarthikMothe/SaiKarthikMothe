@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikMothe&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikMothe&show_icons=true&theme=tokyonight" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikMothe&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Connect With Me

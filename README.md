@@ -11,7 +11,15 @@ A passionate developer from India, exploring and learning latest tech fields.
 
 📫 Reach me:
 - Email: mothesaikarthik123@gmail.com
-- LinkedIn: linkedin.com/in/yourprofile
+## 🌐 Connect With Me
+
+<a href="http://linkedin.com/in/sai-karthik-508b4b307">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 ## 💻 Tech Stack
 
@@ -32,12 +40,3 @@ A passionate developer from India, exploring and learning latest tech fields.
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikarthikMothe&theme=github-compact)](https://github.com/SaikarthikMothe)
 
-## 🌐 Connect With Me
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>

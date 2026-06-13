@@ -24,6 +24,10 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikMothe&show_icons=true&theme=tokyonight" />
 </p>
 
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikarthikMothe&theme=github-compact)](https://github.com/SaikarthikMothe)
+
 ## 🌐 Connect With Me
 
 <a href="YOUR_LINKEDIN">

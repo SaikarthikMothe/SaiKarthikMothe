@@ -1,16 +1,13 @@
 # Hi 👋, I'm Sai Karthik
 
-🎓 B.Tech Student at IIIT Allahabad
-
 A passionate developer from India, exploring and learning latest tech fields.
+📫 Reach me:  mothesaikarthik123@gmail.com
 
 🚀 Currently working on:
 - RAG Applications
 - LangGraph
 - AI Agents
 
-📫 Reach me:
-- Email: mothesaikarthik123@gmail.com
 ## 🌐 Connect With Me
 
 <a href="http://linkedin.com/in/sai-karthik-508b4b307">

@@ -41,6 +41,13 @@ A passionate developer from India, exploring and learning latest tech fields.
 ## 🚀 Popular Repositories
 
 <p align="center">
+   <a href="https://github.com/prnvpjr15/neuro-play">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKarthikMothe&repo=neuro-play&theme=tokyonight" />
+  </a>
+">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKarthikMothe&repo=ConvoAI&theme=tokyonight" />
+  </a>
+
   <a href="https://github.com/SaikarthikMothe/ConvoAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKarthikMothe&repo=ConvoAI&theme=tokyonight" />
   </a>

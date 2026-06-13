@@ -15,7 +15,9 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,mongodb,mysql,git,github)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,html,css,js,react,nodejs,express,mongodb,mysql,postgres,figma,linux,bootstrap,postman,vscode,tensorflow,pytorch&perline=10" />
+</p>
 
 ## 📊 GitHub Stats
 

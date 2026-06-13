@@ -42,17 +42,17 @@ A passionate developer from India, exploring and learning latest tech fields.
 
 <p align="center">
   <a href="https://github.com/SaikarthikMothe/ConvoAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKarthikMothe&repo=ConvoAI&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/SaikarthikMothe/Strassa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKarthikMothe&repo=Strassa&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SaikarthikMothe/Wearable-Stress-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT3&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikarthikMothe&repo=Wearable-Stress-Detection&theme=tokyonight" />
   </a>
 </p>
 
